@@ -1,3 +1,7 @@
 plots
 *.pyc
+.ipynb_checkpoints
+.spyproject
 
+CNX_UPhysics_04_03_Soccer-2155214583.jpeg
+CNX_UPhysics_15_05_SimplePend.jpg
